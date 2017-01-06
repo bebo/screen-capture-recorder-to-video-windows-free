@@ -1,3 +1,6 @@
 [submodule "configuration_setup_utility/jruby-swing-helpers"]
 	path = configuration_setup_utility/jruby-swing-helpers
 	url = https://rdp@github.com/rdp/ruby_simple_gui_creator.git
+[submodule "third_party/Windows-classic-samples"]
+	path = third_party/Windows-classic-samples
+	url = git@github.com:bebo/Windows-classic-samples.git
